@@ -16,5 +16,5 @@ Open a command prompt in the folder and run python main.py
 
 
 # Contakt:
-Discord : notlit2 [ Do not dm me for help]
+Discord : discord.gg/freecloud or look_123 [ Do not dm me for help]
 
